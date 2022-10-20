@@ -7,6 +7,6 @@ public class SalamTest {
 	
    @Test
    public void testMethod() {
-	     System.out.println("salam alaykom");
+	     System.out.println("salam alaykom v2");
    }
 }
