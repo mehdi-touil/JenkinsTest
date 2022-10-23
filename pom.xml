@@ -99,6 +99,14 @@ Also show cases the 'Simple Logging Framework - slf4j'.</description>
 			<version>4.11</version>
 			<scope>test</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+                <dependency>
+                        <groupId>org.testng</groupId>
+                        <artifactId>testng</artifactId>
+                        <version>7.6.1</version>
+                        <scope>test</scope>
+                </dependency>
+
 	</dependencies>
 
 
